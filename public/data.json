@@ -1,0 +1,37 @@
+  [{
+    "id":1,
+    "imageName": "imageone.png",
+    "price": "4.354.365",
+    "address": "7187 Morapa Dr."
+  },
+  {
+    "id":2,
+    "imageName": "imagetwo.png",
+    "price": "4.354.365",
+    "address": "1301 Dolphin Terrace"
+  },
+  {
+    "id":3,
+    "imageName": "imagethree.png",
+    "price": "4.354.365",
+    "address": "215 Milford Dr."
+  },
+  {
+    "id":4,
+    "imageName": "imagefour.png",
+    "price": "4.354.365",
+    "address": "Nightingale Dr."
+  },
+  {
+    "id":5,
+    "imageName": "imagefive.png",
+    "price": "4.354.365",
+    "address": "Sutton St."
+  },
+  {
+    "id":6,
+    "imageName": "imagesix.png",
+    "price": "4.354.365",
+    "address": "215 Milford Dr."
+  }]
+
